@@ -5,4 +5,5 @@ package bean;
  */
 
 public class UO {
+    private String str;
 }
